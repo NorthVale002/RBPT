@@ -1,0 +1,7 @@
+{
+  "name": "Rahemin's Beauty Parlour & Training Center",
+  "description": "Luxury beauty parlour and professional training center in Hyderabad, Sindh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
